@@ -22,94 +22,76 @@ AI · Computer Vision · Document AI · Point Cloud · Industrial AI
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1200&color=E9868E&center=true&vCenter=true&width=650&lines=Turning+data+into+little+discoveries+♡;Researching+AI+for+real-world+industrial+problems+୨୧;Learning%2C+coding%2C+and+growing+every+day+🌷" alt="Typing SVG" />
 
 </div>
-
-₊˚⊹♡ About Me
-
-<img align="right" width="245" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanzwewoo&layout=compact&hide_border=true&bg_color=FCF9EA&title_color=E9868E&text_color=7A4E57&icon_color=BADFDB" />
-
-🎀 M.S. Student & Researcher
-
-🔬 Exploring AI for real-world industrial applications
-
-🌷 Interested in Computer Vision, Document AI, OCR, Point Cloud & NLP
-
-🧸 I like building research workflows that connect data → analysis → practical solutions
-
-🐈‍⬛ Currently learning, experimenting, and documenting my research journey
-
-📍 South Korea
-
-<br clear="right"/>
-
-୨୧ Research Interests
+## ୨୧ Research Interests
 
 <div align="center">
 
-୨୧
-
-Research Area
-
-What I Explore
-
-🎀
-
-Computer Vision
-
-Detection, visual understanding, spatial reasoning
-
-🌸
-
-Document AI & OCR
-
-Industrial documents, handwriting, OCR quality assessment
-
-🫧
-
-Point Cloud Processing
-
-3D spatial analysis, PCD-based decision making
-
-💗
-
-Industrial AI
-
-AI methods for construction, mining, safety, monitoring
-
-🌷
-
-NLP & Text Mining
-
-Discourse analysis, information extraction, topic modeling
-
-🧁
-
-Optimization
-
-Sensor placement, monitoring coverage, route optimization
+| ୨୧ | Research Area | What I Explore |
+|:---:|---|---|
+| 🎀 | **Multi-modal AI** | Connecting visual, textual, and spatial information for deeper understanding and reasoning |
+| 🌷 | **AI for Industrial Systems** | Applying AI to real-world industrial environments such as construction, mining, safety, and monitoring |
+| 💗 | **Industrial Digital Transformation** | Exploring how data and AI can support smarter workflows, decision-making, and digital transformation |
+| 🧸 | **Research-driven Data Exploration** | Investigating data through a research lens to uncover meaningful patterns, insights, and real-world implications |
 
 </div>
 
-˚₊‧ Current Research & Projects ‧₊˚
+<br/>
 
-🎀 PR_MineOCR
+<div align="center">
 
-OCR Quality Assessment for Industrial Documents
+♡ I am interested in exploring how AI can move beyond model performance  
+to understand real-world problems, uncover meaningful insights,  
+and support practical decisions in industrial environments. ♡
 
-Visual noise, document damage, handwriting, OCR recognition, and context-aware verification for industrial field documents.
+</div>
 
-🌷 CCTV Placement Optimization
+---
 
-Point Cloud-based CCTV Installation & Monitoring
+## ˚₊‧ Current Research & Projects ‧₊˚
 
-PCD-based installation feasibility, visibility evaluation, monitoring coverage, and deployable camera placement.
+### 🎀 PR_MineOCR
+**Multi-modal Understanding & OCR Quality Assessment for Industrial Documents**
 
-💗 Nuclear Discourse Analysis
+Exploring how visual conditions, document damage, handwriting, and textual context affect OCR reliability in real-world industrial documents.
 
-AI-based Analysis of Nuclear Energy Public Discourse
+`Document AI` · `OCR` · `Visual Understanding` · `Multi-modal AI` · `Quality Assessment`
 
-Cross-national news discourse, multilingual text analysis, topic modeling, and quantitative comparison.
+<br/>
 
-୨୧ My Little Toolbox
+### 🌷 CCTV Placement Optimization
+**Point Cloud-based Spatial Analysis for Industrial Monitoring**
+
+Exploring how 3D point cloud data can be used to evaluate installation feasibility, visibility, and monitoring coverage for practical CCTV deployment.
+
+`Point Cloud` · `Spatial Reasoning` · `Visibility Analysis` · `Optimization` · `Industrial Monitoring`
+
+<br/>
+
+### 💗 Nuclear Discourse Analysis
+**Data-driven Analysis of Nuclear Energy Public Discourse**
+
+Exploring patterns and differences in nuclear energy discourse across countries using multilingual text data, topic modeling, and quantitative analysis.
+
+`Text Mining` · `NLP` · `Topic Modeling` · `Discourse Analysis` · `Data-driven Research`
+
+---
+
+## ୨୧ Research Approach
+
+<div align="center">
+
+### 🎀 Question → 🌷 Data → 🧸 Exploration → 💗 Insight → 🔬 Real-world Implications
+
+<br/>
+
+I enjoy starting from a research question, exploring data from multiple perspectives,  
+and connecting the findings back to meaningful real-world implications.
+
+</div>
+
+---
+
+## ୨୧ Research Toolkit
 
 <div align="center">
 
@@ -117,7 +99,9 @@ Cross-national news discourse, multilingual text analysis, topic modeling, and q
 <img src="https://img.shields.io/badge/PyTorch-FFBDBD?style=for-the-badge&logo=pytorch&logoColor=7A4E57"/>
 <img src="https://img.shields.io/badge/OpenCV-BADFDB?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/scikit--learn-FCF9EA?style=for-the-badge&logo=scikitlearn&logoColor=E9868E"/>
+
 <br/>
+
 <img src="https://img.shields.io/badge/Git-FFA4A4?style=for-the-badge&logo=git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitHub-FFBDBD?style=for-the-badge&logo=github&logoColor=7A4E57"/>
 <img src="https://img.shields.io/badge/VS%20Code-BADFDB?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
@@ -125,27 +109,19 @@ Cross-national news discourse, multilingual text analysis, topic modeling, and q
 
 </div>
 
-₊˚⊹♡ GitHub Stats
+---
+
+## ₊˚⊹♡ GitHub Stats
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=hanzwewoo&show_icons=true&hide_border=true&bg_color=FCF9EA&title_color=E9868E&text_color=7A4E57&icon_color=FFA4A4&ring_color=BADFDB" />
-&nbsp;
+
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzwewoo&hide_border=true&background=FCF9EA&stroke=FFBDBD&ring=FFA4A4&fire=E9868E&currStreakNum=7A4E57&sideNums=7A4E57&currStreakLabel=E9868E&sideLabels=7A4E57&dates=A57C85" />
 
 </div>
 
-🌸 Pink Contribution Garden
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hanzwewoo&bg_color=FCF9EA&color=7A4E57&line=FFA4A4&point=E9868E&area=true&area_color=FFBDBD&hide_border=true&custom_title=Jiu's%20Contribution%20Garden%20♡" width="95%"/>
-
-</div>
-
-♡ GitHub의 기본 초록 contribution graph 자체는 프로필 README에서 직접 핑크색으로 변경할 수 없어서, 위에 별도의 Pink Contribution Garden을 넣었어요.
-
-୨୧ Featured Repository
+<br/>
 
 <div align="center">
 
@@ -155,15 +131,19 @@ Cross-national news discourse, multilingual text analysis, topic modeling, and q
 
 </div>
 
+---
+
 <div align="center">
 
 ꒰ঌ ♡ ໒꒱
 
-Researching, learning, and making tiny progress every day.
+**Exploring questions, uncovering insights, and connecting AI research to the real world.**
+
+<br/>
 
 ₊˚⊹♡ Thanks for visiting my GitHub! ♡⊹˚₊
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=hanzwewoo&label=visitors%20୨୧&color=FFA4A4&style=flat" alt="profile views"/>
 
