@@ -183,16 +183,24 @@ and connecting the findings back to meaningful real-world implications.
 
 <div align="center">
 
-<a href="https://github.com/hanzeewoo/PR_MineOCR">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=hanzeewoo&repo=PR_MineOCR&hide_border=true&bg_color=FCF9EA&title_color=E9868E&text_color=7A4E57&icon_color=FFA4A4"
-    alt="PR_MineOCR"
-  />
-</a>
+### ⛏️🌷 [MineOCR v3](https://github.com/hanzeewoo/PR_MineOCR)
+
+**광산 현장 문서 GNN + EXAONE OCR 교정 시스템**
+
+<img src="https://img.shields.io/badge/CLOVA-OCR-FCF9EA?style=flat-square">
+<img src="https://img.shields.io/badge/GNN-GATv2-BADFDB?style=flat-square">
+<img src="https://img.shields.io/badge/LLM-EXAONE%203.5-FFBDBD?style=flat-square">
+<img src="https://img.shields.io/badge/Python-100%25-FFA4A4?style=flat-square">
+
+<br/>
+
+<sub>OCR → Graph → Correction → Document</sub>
 
 </div>
 
 <br/>
+
+---
 
 ---
 
