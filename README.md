@@ -1,4 +1,3 @@
-```md
 <!--
 ୨୧ JIU's GitHub Profile README ୨୧
 
@@ -12,31 +11,24 @@ Palette
 
 <div align="center">
 
-<!-- ───────────────────── HEADER ───────────────────── -->
-
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:FCF9EA,35:FFBDBD,70:FFA4A4,100:BADFDB&height=220&section=header&text=Hi,%20I%27m%20Jiu%20%E2%99%A1&fontSize=46&fontColor=7A4E57&animation=fadeIn&fontAlignY=38&desc=Researching%20%C2%B7%20Learning%20%C2%B7%20Creating&descAlignY=58&descSize=17"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:FCF9EA,35:FFBDBD,70:FFA4A4,100:BADFDB&height=220&section=header&text=Hi,%20I%27m%20Jiu%20%E2%99%A1&fontSize=46&fontColor=7A4E57&animation=fadeIn&fontAlignY=38&desc=Researching%20%C2%B7%20Learning%20%C2%B7%20Creating&descAlignY=58&descSize=17"
+width="100%"
+alt="header"
 />
 
-୨୧ ˚₊‧ **Welcome to my little research space** ‧₊˚ ୨୧
+### ୨୧ ˚₊‧ Welcome to my little research space ‧₊˚ ୨୧
 
 **Multi-modal AI · AI for Industrial Systems · Industrial Digital Transformation**
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=20&pause=1200&color=E9868E&center=true&vCenter=true&width=700&lines=Exploring+AI+through+a+research+lens;Connecting+AI+research+to+real-world+industrial+problems;Learning%2C+experimenting%2C+and+documenting+my+research+journey"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&pause=1200&color=E9868E&center=true&vCenter=true&width=720&lines=Exploring+AI+through+a+research+lens+%E2%99%A1;Connecting+AI+research+to+real-world+industrial+problems;Learning%2C+experimenting%2C+and+documenting+my+research+journey"
+alt="Typing SVG"
 />
 
-</div>
-
 <br/>
-
-<!-- ───────────────────── ABOUT ───────────────────── -->
-
-<div align="center">
 
 🎀 **M.S. Student & Researcher**
 
@@ -60,34 +52,28 @@ Palette
 
 <div align="center">
 
-<h3>🎀 Multi-modal AI</h3>
+### 🎀 Multi-modal AI
 
-<p>
-Exploring how visual, textual, and contextual information can be connected<br/>
-for richer understanding, reasoning, and real-world AI applications.
-</p>
+Exploring how **visual, textual, and contextual information**
+can be connected for richer understanding and reasoning.
 
 <br/>
 
 ୨୧
 
-<h3>🌷 AI for Industrial Systems</h3>
+### 🌷 AI for Industrial Systems
 
-<p>
-Studying how AI can be adapted to real industrial environments,<br/>
-with a focus on practical constraints, reliability, and field applicability.
-</p>
+Exploring how AI can be applied to **real-world industrial environments**,
+with a focus on practical applicability, reliability, and field conditions.
 
 <br/>
 
 ୨୧
 
-<h3>💗 Industrial Digital Transformation</h3>
+### 💗 Industrial Digital Transformation
 
-<p>
-Exploring how AI and data can transform industrial workflows,<br/>
-support decision-making, and create meaningful changes in real-world operations.
-</p>
+Exploring how **AI and data can reshape industrial workflows**,
+support decision-making, and contribute to meaningful digital transformation.
 
 </div>
 
@@ -95,8 +81,9 @@ support decision-making, and create meaningful changes in real-world operations.
 
 <div align="center">
 
-♡ Beyond model performance, I am interested in understanding  
-what the data tells us, why it matters, and how research can connect back to the real world. ♡
+♡ I am interested not only in how well AI performs,
+but also in what the data reveals, why it matters,
+and how research findings can connect back to the real world. ♡
 
 </div>
 
@@ -106,15 +93,21 @@ what the data tells us, why it matters, and how research can connect back to the
 
 ## ˚₊‧ Current Research & Projects ‧₊˚
 
-<p align="right">
-<sub>chronological · earlier → recent</sub>
-</p>
+<div align="center">
+
+<sub>earlier → recent</sub>
+
+</div>
+
+<br/>
 
 ### 💗 01 · Nuclear Discourse Analysis
 
 **Computational Analysis of Nuclear Energy Public Discourse**
 
-Exploring patterns and differences in nuclear energy discourse across countries through multilingual text data and quantitative analysis.
+Exploring how nuclear energy is discussed across different countries and media environments through data-driven analysis.
+
+The project focuses on identifying **patterns, topics, and differences in public discourse** using multilingual text data and quantitative approaches.
 
 `NLP` · `Text Mining` · `Topic Modeling` · `Discourse Analysis` · `Cross-national Analysis`
 
@@ -124,7 +117,9 @@ Exploring patterns and differences in nuclear energy discourse across countries 
 
 **OCR for Real-world Mining & Industrial Documents**
 
-Exploring OCR reliability in industrial field documents, including document degradation, handwriting, recognition errors, and contextual information.
+Exploring OCR performance and reliability in documents collected from real industrial environments.
+
+The project investigates how **document degradation, handwriting, recognition errors, and field-specific context** influence OCR results and document understanding.
 
 `Document AI` · `OCR` · `Industrial Documents` · `Handwriting` · `Multi-modal AI`
 
@@ -134,9 +129,11 @@ Exploring OCR reliability in industrial field documents, including document degr
 
 **Understanding the Impact of Visual Noise on OCR**
 
-Investigating how visual noise and document degradation affect OCR recognition and exploring ways to evaluate OCR robustness under challenging document conditions.
+Investigating how different types and levels of **visual noise and document degradation** affect OCR recognition performance.
 
-`Document AI` · `OCR` · `Visual Noise` · `Document Quality` · `Robustness`
+The project explores OCR robustness under challenging document conditions and examines how visual characteristics relate to recognition quality.
+
+`Document AI` · `OCR` · `Visual Noise` · `Document Quality` · `OCR Robustness`
 
 <br/>
 
@@ -146,12 +143,12 @@ Investigating how visual noise and document degradation affect OCR recognition a
 
 <div align="center">
 
-### 🎀 Question → 🌷 Data → 🧸 Exploration → 💗 Insight → 🔬 Implication
+### 🤔 Question → 📃 Data → 💻 Exploration → 👀 Insight → ✨ Implication
 
 <br/>
 
-I enjoy starting from a research question,  
-exploring data from multiple perspectives,  
+I enjoy starting from a **research question**,
+exploring data from multiple perspectives,
 and connecting the findings back to meaningful real-world implications.
 
 </div>
@@ -164,17 +161,34 @@ and connecting the findings back to meaningful real-world implications.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-FFA4A4?style=for-the-badge&logo=python&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/PyTorch-FFBDBD?style=for-the-badge&logo=pytorch&logoColor=7A4E57"/>
-<img src="https://img.shields.io/badge/OpenCV-BADFDB?style=for-the-badge&logo=opencv&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/scikit--learn-FCF9EA?style=for-the-badge&logo=scikitlearn&logoColor=E9868E"/>
+<img src="https://img.shields.io/badge/Python-FFA4A4?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python"/>
+<img src="https://img.shields.io/badge/PyTorch-FFBDBD?style=for-the-badge&logo=pytorch&logoColor=7A4E57" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/OpenCV-BADFDB?style=for-the-badge&logo=opencv&logoColor=ffffff" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/scikit--learn-FCF9EA?style=for-the-badge&logo=scikitlearn&logoColor=E9868E" alt="scikit-learn"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-FFA4A4?style=for-the-badge&logo=git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GitHub-FFBDBD?style=for-the-badge&logo=github&logoColor=7A4E57"/>
-<img src="https://img.shields.io/badge/VS%20Code-BADFDB?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Linux-FCF9EA?style=for-the-badge&logo=linux&logoColor=7A4E57"/>
+<img src="https://img.shields.io/badge/Git-FFA4A4?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-FFBDBD?style=for-the-badge&logo=github&logoColor=7A4E57" alt="GitHub"/>
+<img src="https://img.shields.io/badge/VS%20Code-BADFDB?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Linux-FCF9EA?style=for-the-badge&logo=linux&logoColor=7A4E57" alt="Linux"/>
+
+</div>
+
+<br/>
+
+---
+
+## ₊˚⊹♡ Featured Research
+
+<div align="center">
+
+<a href="https://github.com/hanzwewoo/PR_MineOCR">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=hanzwewoo&repo=PR_MineOCR&hide_border=true&bg_color=FCF9EA&title_color=E9868E&text_color=7A4E57&icon_color=FFA4A4"
+    alt="PR_MineOCR"
+  />
+</a>
 
 </div>
 
@@ -186,18 +200,23 @@ and connecting the findings back to meaningful real-world implications.
 
 ꒰ঌ ♡ ໒꒱
 
-**Exploring questions, uncovering insights,  
-and connecting AI research to the real world.**
+### Exploring questions, uncovering insights,
 
-<br/><br/>
+### and connecting AI research to the real world.
 
-₊˚⊹♡ Thanks for visiting my GitHub! ♡⊹˚₊
+<br/>
+
+*Researching · Learning · Experimenting · Documenting*
+
+<br/>
+
+₊˚⊹♡ **Thanks for visiting my GitHub!** ♡⊹˚₊
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=hanzwewoo&label=visitors%20%E0%A7%A8%E0%A7%A7&color=FFA4A4&style=flat"
-  alt="profile views"
+src="https://komarev.com/ghpvc/?username=hanzwewoo&label=visitors%20%E0%A7%A8%E0%A7%A7&color=FFA4A4&style=flat"
+alt="profile views"
 />
 
 <br/><br/>
@@ -205,9 +224,9 @@ and connecting AI research to the real world.**
 ୨୧ ──────────────── ୨୧
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:BADFDB,30:FFA4A4,65:FFBDBD,100:FCF9EA&height=120&section=footer"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:BADFDB,30:FFA4A4,65:FFBDBD,100:FCF9EA&height=120&section=footer"
+width="100%"
+alt="footer"
 />
 
 </div>
-```
