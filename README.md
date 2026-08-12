@@ -183,7 +183,7 @@ and connecting the findings back to meaningful real-world implications.
 
 <div align="center">
 
-<a href="https://github.com/hanzwewoo/PR_MineOCR">
+<a href="https://github.com/hanzeewoo/PR_MineOCR">
   <img
     src="https://github-readme-stats.vercel.app/api/pin/?username=hanzeewoo&repo=PR_MineOCR&hide_border=true&bg_color=FCF9EA&title_color=E9868E&text_color=7A4E57&icon_color=FFA4A4"
     alt="PR_MineOCR"
