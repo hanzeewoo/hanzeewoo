@@ -99,19 +99,21 @@ and how research findings can connect back to the real world. ♡
 
 </div>
 
-<br/>
-
-### 💗 01 · Nuclear Discourse Analysis
-
-**Computational Analysis of Nuclear Energy Public Discourse**
-
-Exploring how nuclear energy is discussed across different countries and media environments through data-driven analysis.
-
-The project focuses on identifying **patterns, topics, and differences in public discourse** using multilingual text data and quantitative approaches.
-
-`NLP` · `Text Mining` · `Topic Modeling` · `Discourse Analysis` · `Cross-national Analysis`
 
 <br/>
+
+### 🎀 01 · Visual Noise Document OCR
+
+**Understanding the Impact of Visual Noise on OCR**
+
+Investigating how different types and levels of **visual noise and document degradation** affect OCR recognition performance.
+
+The project explores OCR robustness under challenging document conditions and examines how visual characteristics relate to recognition quality.
+
+`Document AI` · `OCR` · `Visual Noise` · `Document Quality` · `OCR Robustness`
+
+<br/>
+
 
 ### 🌷 02 · Mining OCR
 
@@ -123,19 +125,22 @@ The project investigates how **document degradation, handwriting, recognition er
 
 `Document AI` · `OCR` · `Industrial Documents` · `Handwriting` · `Multi-modal AI`
 
-<br/>
-
-### 🎀 03 · Visual Noise Document OCR
-
-**Understanding the Impact of Visual Noise on OCR**
-
-Investigating how different types and levels of **visual noise and document degradation** affect OCR recognition performance.
-
-The project explores OCR robustness under challenging document conditions and examines how visual characteristics relate to recognition quality.
-
-`Document AI` · `OCR` · `Visual Noise` · `Document Quality` · `OCR Robustness`
 
 <br/>
+
+### 💗 03 · Nuclear Discourse Analysis
+
+**Computational Analysis of Nuclear Energy Public Discourse**
+
+Exploring how nuclear energy is discussed across different countries and media environments through data-driven analysis.
+
+The project focuses on identifying **patterns, topics, and differences in public discourse** using multilingual text data and quantitative approaches.
+
+`NLP` · `Text Mining` · `Topic Modeling` · `Discourse Analysis` · `Cross-national Analysis`
+
+
+<br/>
+
 
 ---
 
