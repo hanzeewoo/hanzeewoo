@@ -199,7 +199,7 @@ and connecting the findings back to meaningful real-world implications.
 
 <br/>
 
-<sub>OCR → Graph → Correction → Document</sub>
+<sub>OCR → Table Structure → Cell Correction → Document</sub>
 
 </div>
 
